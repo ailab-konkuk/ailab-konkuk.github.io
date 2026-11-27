@@ -1,0 +1,10 @@
+---
+layout: page
+title: Education
+---
+
+<br/>
+
+# Under Construction
+
+This page is currently being updated. Please check back soon.
