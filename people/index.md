@@ -3,10 +3,14 @@ layout: page
 title: People
 ---
 
-<br/>
-
 ### Director
 * [Prof. Dugki Min(민덕기), Ph.D](./DugkiMin)
+
+### Fellow International Professor
+* [Prof. Tuan Anh Nguyen(투안), Ph.D](./AnhNT)
+
+### Post Doctor Course
+* [DamSub Lim(임담섭)](./DamsubLim)
 
 ### Ph.D Course
 * [KyungHan Kim(김경한)](./KimKyunghan)
